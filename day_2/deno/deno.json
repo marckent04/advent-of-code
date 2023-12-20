@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "@deps": "./deps.ts"
+  },
+  "tasks": {
+    "test": "deno test",
+    "start": "deno run src/index.ts"
+  }
+}
